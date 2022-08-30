@@ -13,7 +13,9 @@
 
 * asterisk2
 
-_underlined text here
+_ underlined text here
+
+_ underlined text here _
 
 # BEAUTIFUL NOTES
 ## smaller subheading
