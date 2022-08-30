@@ -1,3 +1,17 @@
+# The largest heading
+## The second largest heading
+###### The smallest heading
+
+
+-bullet1
+-bullet2
+-bullet3
+
+*asterisk1
+*asterisk2
+
+_underlined text here_
+
 # BEAUTIFUL NOTES
 ## smaller subheading
 
