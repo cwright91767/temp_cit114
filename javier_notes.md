@@ -3,12 +3,15 @@
 ###### The smallest heading
 
 
--bullet1
--bullet2
--bullet3
+- bullet1
 
-*asterisk1
-*asterisk2
+- bullet2
+
+- bullet3
+
+* asterisk1
+
+* asterisk2
 
 _underlined text here
 
