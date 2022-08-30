@@ -1,3 +1,6 @@
+# BEAUTIFUL NOTES
+## smaller subheading
+
 1) Summarize a few key points made in the readings or videos.
 The main components of Cloud Computing consist of 
 - Infrastructure as a Service(IaaS), which administer the virtual hardware of your Virtual Machine (VM), such as how many CPUs, how much RAM and storage.
