@@ -10,7 +10,7 @@
 *asterisk1
 *asterisk2
 
-_underlined text here_
+_underlined text here
 
 # BEAUTIFUL NOTES
 ## smaller subheading
